@@ -12,4 +12,3 @@
     * Two actions of an Actor:
         * send message using the operator (!)
         * receive messages
-    
